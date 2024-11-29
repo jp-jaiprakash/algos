@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="7eccdeb6-a3bb-4beb-b0b3-6d242c2fbef8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/slidingwindows/SmallestSubArrayWithGreaterSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/slidingwindows/SmallestSubArrayWithGreaterSum.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +52,38 @@
       <recent name="slidingwindows" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SmallestSubArrayWithGreaterSumTest">
+    <configuration name="LongestSubStringKDistinctCharactersTest.TestSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designgurueswithtestcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingwindows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slidingwindows" />
+      <option name="MAIN_CLASS_NAME" value="slidingwindows.LongestSubStringKDistinctCharactersTest" />
+      <option name="METHOD_NAME" value="TestSolution(java.lang.String,int,int)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestSubArrayWithGreaterSumTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="designgurueswithtestcases" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="slidingwindows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="slidingwindows" />
+      <option name="MAIN_CLASS_NAME" value="slidingwindows.SmallestSubArrayWithGreaterSumTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SmallestSubArrayWithGreaterSumTest.TestSolution" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="designgurueswithtestcases" />
       <extension name="coverage">
@@ -72,6 +102,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SmallestSubArrayWithGreaterSumTest" />
+        <item itemvalue="JUnit.LongestSubStringKDistinctCharactersTest.TestSolution" />
         <item itemvalue="JUnit.SmallestSubArrayWithGreaterSumTest.TestSolution" />
       </list>
     </recent_temporary>
@@ -85,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731964803338</updated>
       <workItem from="1731964804568" duration="5001000" />
-      <workItem from="1732567327753" duration="358000" />
+      <workItem from="1732567327753" duration="9273000" />
     </task>
     <servers />
   </component>
@@ -102,5 +134,26 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/slidingwindows/LongestSubStringKDistinctCharacters.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/slidingwindows/LongestSubStringKDistinctCharacters.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/slidingwindows/LongestSubStringKDistinctCharacters.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -1,4 +1,4 @@
-package org.example.slidingwindows;
+package slidingwindows;
 
 public class SmallestSubArrayWithGreaterSum {
     public int solve(int[] inputArray, int targetSum) {

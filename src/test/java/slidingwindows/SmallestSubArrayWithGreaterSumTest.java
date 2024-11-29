@@ -1,6 +1,5 @@
 package slidingwindows;
 
-import org.example.slidingwindows.SmallestSubArrayWithGreaterSum;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;
 
